@@ -186,3 +186,17 @@
 .privacy-policy-text49 {
   color: rgb(255, 255, 255);
 }
+
+@media(max-width: 767px) {
+  .privacy-policy-container1 {
+    padding: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .privacy-policy-container1 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+}
