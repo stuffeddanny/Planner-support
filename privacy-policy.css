@@ -6,7 +6,8 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-image: radial-gradient(circle at left bottom, rgb(0, 0, 0) 61.00%,rgb(55, 13, 13) 100.00%);
+  background-color: black;
+  /* background-image: radial-gradient(circle at left bottom, rgb(0, 0, 0) 61.00%,rgb(55, 13, 13) 100.00%); */
 }
 .privacy-policy-container1 {
   gap: var(--dl-space-space-twounits);

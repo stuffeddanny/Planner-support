@@ -5,7 +5,8 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  background-image: radial-gradient(circle at left bottom, rgb(0, 0, 0) 47.00%,rgb(55, 13, 13) 100.00%);
+  background-color: black;
+  /* background-image: radial-gradient(circle at left bottom, rgb(0, 0, 0) 47.00%,rgb(55, 13, 13) 100.00%); */
 }
 .home-header {
   color: #E82F52;
@@ -32,7 +33,7 @@
   align-self: center;
 }
 .home-text {
-  font-size: 30px;
+  font-size: 26px;
   font-style: normal;
   font-weight: 600;
   padding-left: var(--dl-space-space-unit);
