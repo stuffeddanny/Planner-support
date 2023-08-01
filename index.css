@@ -125,8 +125,7 @@
 .home-container03 {
   display: flex;
   position: relative;
-  margin-right: var(--dl-space-space-threeunits);
-  padding-right: var(--dl-space-space-threeunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
   flex-direction: column;
 }
 .home-text05 {
@@ -143,7 +142,7 @@
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .home-image2 {
-  width: 530px;
+  width: 400pt;
   object-fit: cover;
 }
 .home-features {
